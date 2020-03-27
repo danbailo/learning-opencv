@@ -34,7 +34,7 @@ I'm use the same structure of OpenCV documentation:
 
 	* [Getting Started with Images](https://docs.opencv.org/4.2.0/dc/d2e/tutorial_py_image_display.html) - done.
 
-	* [Getting Started with Videos](https://docs.opencv.org/4.2.0/dd/d43/tutorial_py_video_display.html) - doing.
+	* [Getting Started with Videos](https://docs.opencv.org/4.2.0/dd/d43/tutorial_py_video_display.html) - done.
 
 	* [Drawing Functions in OpenCV](https://docs.opencv.org/4.2.0/dc/da5/tutorial_py_drawing_functions.html) - to do.
 

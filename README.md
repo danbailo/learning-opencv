@@ -36,7 +36,7 @@ I'm use the same structure of OpenCV documentation:
 
 	* [Getting Started with Videos](https://docs.opencv.org/4.2.0/dd/d43/tutorial_py_video_display.html) - done.
 
-	* [Drawing Functions in OpenCV](https://docs.opencv.org/4.2.0/dc/da5/tutorial_py_drawing_functions.html) - to do.
+	* [Drawing Functions in OpenCV](https://docs.opencv.org/4.2.0/dc/da5/tutorial_py_drawing_functions.html) - done.
 
 	* [Mouse as a Paint-Brush](https://docs.opencv.org/4.2.0/db/d5b/tutorial_py_mouse_handling.html) - to do.
 

@@ -14,7 +14,9 @@ My motivations and goals to started it is, I want to learn to handle images and 
 
 A part of my research involves trackers and a cut images. It also involves Machine Learning so, this library is essential to me!
 
-## Structure of repository
+## Method
+
+For each section, I'm reading and test the content of this, and, before testing, I read the functions and the documentation of the functions. So, when I will test, I try to code it alone (without see the documentation code), and write annotations in parts that I think that's important in the form of comments.
 
 I'm use the same structure of OpenCV documentation:
 
@@ -25,7 +27,6 @@ I'm use the same structure of OpenCV documentation:
 	I recommend this tutorial to install OpenCV in your computer - https://www.pyimagesearch.com/2018/08/15/how-to-install-opencv-4-on-ubuntu/.
 
 	*In my case, I haven't use a virtual enviroment, but, works the same way!*
-
 
 * [Gui Features in OpenCV](https://docs.opencv.org/4.2.0/dc/d4d/tutorial_py_table_of_contents_gui.html)
 

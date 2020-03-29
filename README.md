@@ -42,9 +42,15 @@ I'm use the same structure of OpenCV documentation:
 
 	* [Trackbar as the Color Palette](https://docs.opencv.org/4.2.0/d9/dc8/tutorial_py_trackbar.html) - done.
 
-* [Core Operations]()
+* [Core Operations](https://docs.opencv.org/4.2.0/d7/d16/tutorial_py_table_of_contents_core.html)
 
-In this section you will learn basic operations on image like pixel editing, geometric transformations, code optimization, some mathematical tools etc.
+	In this section you will learn basic operations on image like pixel editing, geometric transformations, code optimization, some mathematical tools etc.
+
+	* [Basic Operations on Images](https://docs.opencv.org/4.2.0/d3/df2/tutorial_py_basic_ops.html) - doing.
+
+	* [Arithmetic Operations on Images]() - to do.
+
+	* [Performance Measurement and Improvement Techniques]() - to do.
 
 * [Image Processing in OpenCV]()
 

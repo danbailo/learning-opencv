@@ -46,9 +46,9 @@ I'm use the same structure of OpenCV documentation:
 
 	In this section you will learn basic operations on image like pixel editing, geometric transformations, code optimization, some mathematical tools etc.
 
-	* [Basic Operations on Images](https://docs.opencv.org/4.2.0/d3/df2/tutorial_py_basic_ops.html) - doing.
+	* [Basic Operations on Images](https://docs.opencv.org/4.2.0/d3/df2/tutorial_py_basic_ops.html) - done.
 
-	* [Arithmetic Operations on Images]() - to do.
+	* [Arithmetic Operations on Images](https://docs.opencv.org/4.2.0/d0/d86/tutorial_py_image_arithmetics.html) - doing.
 
 	* [Performance Measurement and Improvement Techniques]() - to do.
 

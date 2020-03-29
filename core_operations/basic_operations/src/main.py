@@ -32,6 +32,15 @@ print(img[100, 100])
 
 #the method above is good for a set of pixels, for individuals pixels, is good to use the method below
 
+modified_img = np.copy(img)
+
+#modifying a set of pixels
+modified_img[0:100, 0:100] = [255, 255, 255]
+
+cv.imshow("modified_img", modified_img)
+cv.waitKey(0)
+cv.destroyWindow("modified_img")
+
 #acessing value
 print(img.item(10,10,2))
 
